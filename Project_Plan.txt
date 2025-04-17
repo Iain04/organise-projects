@@ -1,0 +1,28 @@
+Project Plan
+
+Idea:
+App that help programmers streamline their ideas and thoughts into a step by step process.
+
+
+
+Functionality
+- Tracks the progress of projects automatically (by reading into files and updates checklist accordingly)
+- Keeps track of multiple projects
+- Dashboard of the current project (with a checklist)
+- Acts as a chatbot to ask questions and links possible resources
+- (Secondary) Gives advice and creative ideas to the project
+
+
+Checklist of things to do:
+1. Figure out how to run an app on windows 11
+	- what language
+	- what possible platform
+2. Stack:
+   Frontend: Electron (for app shell)
+	     React (for UI component)
+	     TailwindCSS (for UI styling)(Undecided)
+   Backend: Node.js (Electron + Node.js)(for overall background tasks)
+	    Python (for specific AI functions)
+   Database: SQLite (Undecided)
+ 
+   Packaging & Distribution: (for the future)
