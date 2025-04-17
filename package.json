@@ -4,15 +4,18 @@
     "description": "A project that organises mutiple programming projects.",
     "main": "main.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
-      "organiser"
+        "organiser"
     ],
     "author": "Iain Lim <iain.lim.tao.en@gmail.com>",
     "license": "ISC",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/yourusername/my-awesome-package.git"
+        "type": "git",
+        "url": "https://github.com/Iain04/organise-projects.git"
+    },
+    "devDependencies": {
+        "electron": "^35.1.5"
     }
-  }
+}
