@@ -7,4 +7,5 @@ node_modules/
 # Optional npm cache directory
 .npm/
 
+# Project plan for owner
 .Project_Plan.txt
