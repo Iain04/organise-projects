@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# dotenv environment files
+.env
+
+# Optional npm cache directory
+.npm/
+
+.Project_Plan.txt
