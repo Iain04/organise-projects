@@ -1,0 +1,18 @@
+{
+  "name": "organise-projects",
+  "version": "1.0.0",
+  "description": "A project that organises mutiple programming projects.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "organiser"
+  ],
+  "author": "Iain Lim <iain.lim.tao.en@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/my-awesome-package.git"
+  }
+}
